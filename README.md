@@ -1,56 +1,37 @@
 <div align="center">
 
-<img src="assets/sakura-banner.png" width="100%" alt="Dreamy Japanese Sakura landscape with the name Gaushik Kumar">
+<img src="assets/sakura-banner.png" width="100%" alt="Sakura trees beside a lake beneath a soft Japanese sunset">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=21&duration=3800&pause=1500&color=D9A7B5&center=true&vCenter=true&width=620&lines=Software+developer+in+the+making;Learning+cloud+and+DevOps;Exploring+AI+and+automation;Growing+one+project+at+a+time" alt="A gentle animated introduction">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=F4A7C3&center=true&vCenter=true&width=620&lines=Software+Development;Cloud+%26+DevOps+Learner;AI+%26+Automation+Explorer;Dream.+Code.+Innovate." alt="Animated introduction">
-
-<br>
-
-<img src="https://img.shields.io/badge/BASED_IN-INDIA-A64D79?style=for-the-badge&labelColor=17151D" alt="Based in India">
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE_%7C_CLOUD_%7C_AI-F4A7C3?style=for-the-badge&labelColor=17151D" alt="Focus areas">
+*Hello, and welcome to my little corner of GitHub.*
 
 </div>
 
 ---
 
-<div align="center">
+## 🌸 A little about me
 
-### 🌸 花 — A LITTLE ABOUT ME
+I'm **Gaushik Kumar**, a Computer Science Engineering student who enjoys turning ideas into useful software.
 
-*Building with curiosity. Learning with purpose.*
+- I’m interested in **software development** and practical problem-solving.
+- I’m learning **cloud computing, AWS and DevOps**.
+- I’m exploring **AI and automation**.
+- I believe in learning by building, staying curious and improving steadily.
 
-</div>
-
-Hi, I'm **Gaushik Kumar**, a Computer Science Engineering student interested in creating practical software and exploring how technology can solve real-world problems.
-
-- 💻 Interested in **software development** and building useful applications
-- ☁️ Learning **cloud computing, AWS and DevOps**
-- 🤖 Exploring **AI automation** and intelligent tools
-- 🌱 Improving through hands-on projects, experimentation and continuous learning
-
----
+## 🍃 Things I work with
 
 <div align="center">
 
-### 🧰 MY TOOLKIT
-
-*Technologies I'm learning and building with*
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,sqlite,git,github,linux,vscode,androidstudio,aws&theme=dark" alt="HTML, CSS, JavaScript, Python, FastAPI, SQLite, Git, GitHub, Linux, VS Code, Android Studio and AWS">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,sqlite,git,github,linux,vscode,androidstudio,aws&theme=light" alt="HTML, CSS, JavaScript, Python, FastAPI, SQLite, Git, GitHub, Linux, VS Code, Android Studio and AWS">
 
 </div>
 
----
-
-<div align="center">
-
-### 🌸 SELECTED PROJECTS
-
-*Small steps, meaningful builds.*
-
-</div>
+## 🌱 Projects I'm growing
 
 <table>
 <tr>
@@ -60,7 +41,9 @@ Hi, I'm **Gaushik Kumar**, a Computer Science Engineering student interested in 
 
 **Adaptive Multi-Fleet Road Intelligence**
 
-A road-monitoring concept that uses camera-equipped vehicles to detect, locate and track road issues, helping improve urban infrastructure visibility.
+A road-monitoring project exploring how camera-equipped vehicles can help detect, locate and track road issues.
+
+[Explore the project demo](https://urban-pulse-sepia.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -82,34 +65,28 @@ A personal AI productivity and life-management companion designed to bring every
 </tr>
 </table>
 
----
+## 🌿 Around GitHub
 
 <div align="center">
 
-### 📈 MY GITHUB CORNER
-
-<img src="https://img.shields.io/github/followers/Gaushik2008?style=for-the-badge&logo=github&label=FOLLOWERS&color=A64D79&labelColor=17151D" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/Gaushik2008?style=for-the-badge&logo=github&label=STARS&color=F4A7C3&labelColor=17151D" alt="GitHub stars">
-<img src="https://komarev.com/ghpvc/?username=Gaushik2008&style=for-the-badge&color=A64D79&label=PROFILE+VIEWS" alt="Profile views">
-
-<br><br>
-
-*The contribution calendar below is GitHub's own activity record.*
+<img src="https://img.shields.io/github/followers/Gaushik2008?style=flat&label=Followers&color=B98A9B&labelColor=34313A" alt="GitHub followers">
+&nbsp;
+<img src="https://img.shields.io/github/stars/Gaushik2008?style=flat&label=Stars&color=9BAE91&labelColor=34313A" alt="GitHub stars">
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Gaushik2008&style=flat&color=C9A6A0&label=Profile+visits" alt="Profile visits">
 
 </div>
 
----
+GitHub's contribution calendar below shows my activity over time. Every small step counts.
+
+## 🌷 Always learning
+
+I'm learning a little every day, building things along the way, and looking forward to what comes next.
 
 <div align="center">
 
-### 🌱 WHAT'S NEXT?
+*夢 — Dream gently. Build thoughtfully. Keep growing.*
 
-Learning one concept at a time, turning ideas into working projects, and growing as a developer.
-
-<br>
-
-**夢 — Dream · Code · Innovate**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151D,45:A64D79,100:F4A7C3&height=120&section=footer" width="100%" alt="Sakura pink and plum wave footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D5D8,50:C9A6A0,100:9BAE91&height=105&section=footer" width="100%" alt="Soft rose and sage animated wave footer">
 
 </div>
