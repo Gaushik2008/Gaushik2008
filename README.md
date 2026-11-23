@@ -45,8 +45,8 @@ I learn by building. Most of what I know came from shipping something imperfect,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react,vite,fastapi,postgres,sqlite&theme=dark" alt="Languages and frameworks"><br>
-<img src="https://skillicons.dev/icons?i=aws,jenkins,docker,linux,git,github,vercel,vscode,androidstudio&theme=dark" alt="Cloud, DevOps and tools">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css&theme=dark" alt="Languages and frameworks"><br>
+<img src="https://skillicons.dev/icons?i=aws,jenkins,linux,git,github,vercel,vscode,androidstudio&theme=dark" alt="Cloud, DevOps and tools">
 
 </div>
 
