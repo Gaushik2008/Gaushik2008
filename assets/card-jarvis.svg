@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-label="Jarvis: multi-agent personal AI">
+<defs>
+  <clipPath id="c"><rect width="600" height="380" rx="22"/></clipPath>
+  <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.35" stop-color="#07070a" stop-opacity="0"/><stop offset="0.62" stop-color="#07070a" stop-opacity="0.92"/></linearGradient>
+</defs>
+<g clip-path="url(#c)">
+<rect width="600" height="380" fill="#0b0b10"/>
+<rect width="600" height="380" fill="#07090f"/>
+<defs><radialGradient id="orb" cx="0.5" cy="0.4" r="0.7"><stop offset="0" stop-color="#ffe9a8"/><stop offset="0.5" stop-color="#f5b301"/><stop offset="1" stop-color="#6b4600"/></radialGradient></defs>
+<circle cx="300" cy="120" r="150" fill="#f5b301" fill-opacity="0.07"/>
+<circle cx="300" cy="120" r="34" fill="none" stroke="#fff" stroke-opacity="0.5"/><circle cx="300" cy="120" r="62" fill="none" stroke="#fff" stroke-opacity="0.28"/><circle cx="300" cy="120" r="96" fill="none" stroke="#fff" stroke-opacity="0.16"/><circle cx="300" cy="120" r="136" fill="none" stroke="#fff" stroke-opacity="0.09"/>
+<line x1="300" y1="120" x2="130" y2="70" stroke="#f3efe6" stroke-opacity="0.45"/>
+<circle cx="130" cy="70" r="22" fill="#0b0b10" stroke="#f3efe6" stroke-width="1.6"/>
+<text x="130" y="74" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="700" fill="#f3efe6">MILO</text>
+<line x1="300" y1="120" x2="470" y2="70" stroke="#f3efe6" stroke-opacity="0.45"/>
+<circle cx="470" cy="70" r="22" fill="#0b0b10" stroke="#f3efe6" stroke-width="1.6"/>
+<text x="470" y="74" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="700" fill="#f3efe6">LUNA</text>
+<line x1="300" y1="120" x2="300" y2="206" stroke="#f3efe6" stroke-opacity="0.45"/>
+<circle cx="300" cy="206" r="22" fill="#0b0b10" stroke="#f3efe6" stroke-width="1.6"/>
+<text x="300" y="210" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="700" fill="#f3efe6">MEM</text>
+<circle cx="300" cy="120" r="30" fill="url(#orb)"><animate attributeName="r" values="29;33;29" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="300" y="124" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="800" fill="#07070a">JARVIS</text>
+<rect width="600" height="380" fill="url(#shade)"/>
+</g>
+<text x="28" y="40" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="2" fill="#f5b301">04 / 04</text>
+<rect x="28" y="238" width="95" height="24" rx="12" fill="none" stroke="#fff" stroke-opacity="0.28"/><text x="76" y="254" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6" fill-opacity="0.85">Multi-agent</text><rect x="131.4" y="238" width="95" height="24" rx="12" fill="none" stroke="#fff" stroke-opacity="0.28"/><text x="179" y="254" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6" fill-opacity="0.85">Personal AI</text><rect x="234.8" y="238" width="110" height="24" rx="12" fill="none" stroke="#fff" stroke-opacity="0.28"/><text x="290" y="254" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6" fill-opacity="0.85">Orchestration</text>
+<text x="28" y="292" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="1" fill="none"> </text>
+<text x="28" y="304" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9a9aa5">A personal AI that orchestrates specialist agents</text><text x="28" y="326" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9a9aa5">for life (MILO) and finance (LUNA).</text>
+<text x="28" y="222" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" letter-spacing="-1" fill="#f3efe6">Jarvis</text>
+<text x="572" y="40" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#f3efe6" fill-opacity="0.8">SOURCE  ↗</text>
+<rect x="0.5" y="0.5" width="599" height="379" rx="22" fill="none" stroke="#fff" stroke-opacity="0.14"/>
+</svg>

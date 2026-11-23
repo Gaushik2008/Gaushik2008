@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Highlights: 4 featured builds, SIH 2026 finalist, focus on AI agents and software">
+<g transform="translate(0 0)">
+  <rect width="372" height="150" y="10" rx="22" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
+  <text x="26" y="48" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#9a9aa5" letter-spacing="1.5">FEATURED BUILDS</text>
+  <text x="26" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="46" letter-spacing="-1.5" fill="#f3efe6">04</text>
+  <text x="26" y="134" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#9a9aa5">UrbanPulse · NitroGravity · Learnova · Jarvis</text>
+</g>
+<g transform="translate(414 0)">
+  <rect width="372" height="150" y="10" rx="22" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
+  <text x="26" y="48" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#9a9aa5" letter-spacing="1.5">HACKATHONS</text>
+  <text x="26" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="46" letter-spacing="-1.5" fill="#f5b301">SIH 2026</text>
+  <text x="26" y="134" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#9a9aa5">Internal finalist, NASA Space Apps builder</text>
+</g>
+<g transform="translate(828 0)">
+  <rect width="372" height="150" y="10" rx="22" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
+  <text x="26" y="48" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" fill="#9a9aa5" letter-spacing="1.5">FOCUS</text>
+  <text x="26" y="104" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="46" letter-spacing="-1.5" fill="#f3efe6">AI · Agents</text>
+  <text x="26" y="134" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#9a9aa5">Software, cloud and automation</text>
+</g>
+</svg>

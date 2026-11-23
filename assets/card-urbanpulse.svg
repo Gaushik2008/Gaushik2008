@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-label="UrbanPulse: AI road intelligence">
+<defs>
+  <clipPath id="c"><rect width="600" height="380" rx="22"/></clipPath>
+  <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.35" stop-color="#07070a" stop-opacity="0"/><stop offset="0.62" stop-color="#07070a" stop-opacity="0.92"/></linearGradient>
+</defs>
+<g clip-path="url(#c)">
+<rect width="600" height="380" fill="#0b0b10"/>
+<rect width="600" height="380" fill="#0b0b10"/>
+<circle cx="300" cy="40" r="150" fill="#f5b301" fill-opacity="0.07"/>
+<line x1="300" y1="30" x2="-580" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="-470" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="-360" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="-250" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="-140" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="-30" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="80" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="190" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="300" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="410" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="520" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="630" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="740" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="850" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="960" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="1070" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="300" y1="30" x2="1180" y2="190" stroke="#fff" stroke-opacity="0.07"/><line x1="0" y1="35" x2="600" y2="35" stroke="#fff" stroke-opacity="0.05"/><line x1="0" y1="45" x2="600" y2="45" stroke="#fff" stroke-opacity="0.05"/><line x1="0" y1="59" x2="600" y2="59" stroke="#fff" stroke-opacity="0.05"/><line x1="0" y1="76" x2="600" y2="76" stroke="#fff" stroke-opacity="0.05"/><line x1="0" y1="96" x2="600" y2="96" stroke="#fff" stroke-opacity="0.05"/><line x1="0" y1="118" x2="600" y2="118" stroke="#fff" stroke-opacity="0.05"/><line x1="0" y1="142" x2="600" y2="142" stroke="#fff" stroke-opacity="0.05"/><path d="M270 30 L330 30 L520 200 L80 200 Z" fill="#14141b" stroke="#fff" stroke-opacity="0.12"/><rect x="297.0" y="44" width="2" height="10" fill="#f3efe6" fill-opacity="0.5"/><rect x="296.5" y="72" width="3" height="16" fill="#f3efe6" fill-opacity="0.5"/><rect x="296.0" y="110" width="4" height="22" fill="#f3efe6" fill-opacity="0.5"/><rect x="295.0" y="160" width="6" height="30" fill="#f3efe6" fill-opacity="0.5"/>
+<rect x="150" y="138" width="70" height="34" fill="#f5b301" fill-opacity="0.12" stroke="#f5b301" stroke-width="1.6"/>
+<rect x="150" y="120" width="94" height="18" fill="#f5b301"/>
+<text x="156" y="133" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#07070a" font-weight="700">pothole 0.94</text>
+<rect x="372" y="100" width="58" height="28" fill="#f5b301" fill-opacity="0.12" stroke="#f5b301" stroke-width="1.6"/>
+<rect x="372" y="82" width="80" height="18" fill="#f5b301"/>
+<text x="378" y="95" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#07070a" font-weight="700">crack 0.88</text>
+<rect x="318" y="62" width="38" height="18" fill="#f5b301" fill-opacity="0.12" stroke="#f5b301" stroke-width="1.6"/>
+<rect x="318" y="44" width="39" height="18" fill="#f5b301"/>
+<text x="324" y="57" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#07070a" font-weight="700">0.81</text>
+<circle cx="526" cy="64" r="5" fill="#ff4d4d"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="508" y="68" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6">LIVE · FLEET 03</text>
+<rect width="600" height="380" fill="url(#shade)"/>
+</g>
+<text x="28" y="40" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="2" fill="#f5b301">01 / 04</text>
+<rect x="28" y="238" width="29" height="24" rx="12" fill="none" stroke="#fff" stroke-opacity="0.28"/><text x="42" y="254" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6" fill-opacity="0.85">AI</text><rect x="64.8" y="238" width="125" height="24" rx="12" fill="none" stroke="#fff" stroke-opacity="0.28"/><text x="127" y="254" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6" fill-opacity="0.85">Computer Vision</text><rect x="197.8" y="238" width="73" height="24" rx="12" fill="none" stroke="#fff" stroke-opacity="0.28"/><text x="234" y="254" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#f3efe6" fill-opacity="0.85">SIH 2026</text>
+<text x="28" y="292" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="1" fill="none"> </text>
+<text x="28" y="304" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9a9aa5">Multi-fleet road intelligence. Camera vehicles detect,</text><text x="28" y="326" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9a9aa5">locate and prioritise defects for repair.</text>
+<text x="28" y="222" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="34" letter-spacing="-1" fill="#f3efe6">UrbanPulse</text>
+<text x="572" y="40" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#f3efe6" fill-opacity="0.8">LIVE DEMO  ↗</text>
+<rect x="0.5" y="0.5" width="599" height="379" rx="22" fill="none" stroke="#fff" stroke-opacity="0.14"/>
+</svg>

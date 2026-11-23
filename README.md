@@ -1,98 +1,58 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Gaushik Kumar Ganesan: code that sees ahead">
+<a href="https://gaushikkumarganesan.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Gaushik Kumar Ganesan. Code that sees ahead."></a>
 
 <br>
 
-<a href="https://gaushikkumarganesan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gaushikkumarganesan.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0f1a" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/gaushikkumarganesan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-818cf8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn"></a>
-<a href="mailto:gaushikkumarganesan@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1a" alt="Email"></a>
+<a href="https://gaushikkumarganesan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-f5b301?style=for-the-badge&logo=vercel&logoColor=black&labelColor=07070a" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/gaushikkumarganesan/"><img src="https://img.shields.io/badge/LinkedIn-connect-f3efe6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07070a" alt="LinkedIn"></a>
+<a href="mailto:gaushikkumarganesan@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-f3efe6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07070a" alt="Email"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+intelligent+systems;Where+software%2C+cloud+and+AI+come+together;Internal+SIH+2026+Finalist;Learn+by+building.+Ship.+Iterate." alt="Typing animation">
+<br><br>
 
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## `~/about`
-
-<img src="assets/terminal.svg" width="100%" alt="about.json: role, focus, achievements and current builds">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## `~/stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,fastapi,react,vite,postgres,sqlite&theme=dark" alt="Languages and frameworks"><br>
-<img src="https://skillicons.dev/icons?i=aws,jenkins,docker,linux,git,github,vscode,androidstudio,vercel&theme=dark" alt="Cloud, DevOps and tools">
+<img src="assets/stats.svg" width="100%" alt="4 featured builds, SIH 2026 internal finalist, focus on AI, agents and software">
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<br>
 
-## `~/projects`
+<img src="assets/h-about.svg" width="100%" alt="About me">
+
+I'm **Gaushik Kumar Ganesan**, a Computer Science Engineering student who turns ideas into working software. I'm drawn to the place where **software, cloud and AI** meet: agents that plan and decide, systems that see the real world, and products that make everyday work lighter.
+
+I learn by building. Most of what I know came from shipping something imperfect, finding out why it broke, and making it better.
+
+<br>
+
+<img src="assets/h-work.svg" width="100%" alt="Featured work">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛣️ UrbanPulse
-`AI` · `Computer Vision` · `SIH 2026`
-
-AI-powered, multi-fleet road intelligence system. Camera-equipped vehicles detect, locate and track road defects, with a priority engine, warranty-based repair routing and multi-step verification.
-
-[**Live demo ↗**](https://urban-pulse-sepia.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 M.I.L.O
-`Agentic AI` · `Android` · `Productivity`
-
-An agentic AI companion that understands your priorities, manages daily tasks and turns goals into personalised plans through intelligent decisions and automation.
-
-[**Source ↗**](https://github.com/Gaushik2008/CraftRoutine-ai.studio)
-
-</td>
+<td width="50%"><a href="https://urban-pulse-sepia.vercel.app/"><img src="assets/card-urbanpulse.svg" alt="UrbanPulse: AI road intelligence"></a></td>
+<td width="50%"><a href="https://github.com/Gaushik2008/nitrogravity"><img src="assets/card-nitrogravity.svg" alt="NitroGravity: 3D space mission game"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🚀 NitroGravity
-`3D` · `Simulation` · `NASA Space Apps`
-
-A 3D space-mission design game: assemble a rocket, launch it, then read a debrief that names the exact cause of success or failure.
-
-[**Source ↗**](https://github.com/Gaushik2008/nitrogravity)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Portfolio Website
-`HTML` · `CSS` · `JavaScript`
-
-A hand-built, single-file portfolio with a colour-cycling hero, scroll-triggered animation, tilt cards and magnetic buttons.
-
-[**Live site ↗**](https://gaushikkumarganesan.vercel.app/) · [**Source ↗**](https://github.com/Gaushik2008/portfolio-claude)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📊 Financial Leakage Intelligent System
-`Software` · `Analytics`
-
-A project focused on identifying potential financial leakages and supporting better financial oversight.
-
-</td>
+<td width="50%"><a href="https://github.com/Gaushik2008/edu-tutor"><img src="assets/card-learnova.svg" alt="Learnova: adaptive learning platform"></a></td>
+<td width="50%"><a href="https://github.com/Gaushik2008/Jarvis"><img src="assets/card-jarvis.svg" alt="Jarvis: multi-agent personal AI"></a></td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+**Also built:** [M.I.L.O](https://github.com/Gaushik2008/CraftRoutine-ai.studio) (agentic AI life organiser) · [Portfolio site](https://github.com/Gaushik2008/portfolio-claude) (single-file, hand-animated) · Financial Leakage Intelligent System
 
-## `~/certifications`
+<br>
+
+<img src="assets/h-stack.svg" width="100%" alt="The stack">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react,vite,fastapi,postgres,sqlite&theme=dark" alt="Languages and frameworks"><br>
+<img src="https://skillicons.dev/icons?i=aws,jenkins,docker,linux,git,github,vercel,vscode,androidstudio&theme=dark" alt="Cloud, DevOps and tools">
+
+</div>
+
+<br>
+
+<img src="assets/h-proof.svg" width="100%" alt="Proof of learning">
 
 | Issuer | Certification |
 |---|---|
@@ -101,40 +61,26 @@ A project focused on identifying potential financial leakages and supporting bet
 | **HackerRank** | Java (Basic) |
 | **Unstop** | GitHub Workflow Mastery |
 
-<img src="assets/divider.svg" width="100%" alt="">
+<br>
 
-## `~/now`
+<img src="assets/h-now.svg" width="100%" alt="Right now">
 
 ```text
-> learning   : cloud architecture on AWS, CI/CD with Jenkins, agent design
-> building   : UrbanPulse, M.I.L.O and the next hackathon idea
-> exploring  : AI agents that plan, decide and automate real workflows
-> open to    : internships, collaborations and hackathon teams
+learning   cloud on AWS, CI/CD with Jenkins, how agents plan and use memory
+building   UrbanPulse, Jarvis, and the next hackathon idea
+open to    internships, collaborations and hackathon teams
 ```
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## `~/activity`
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/Gaushik2008?style=for-the-badge&label=Followers&color=22d3ee&labelColor=0b0f1a" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/Gaushik2008?style=for-the-badge&label=Stars&color=818cf8&labelColor=0b0f1a" alt="GitHub stars">
-<img src="https://komarev.com/ghpvc/?username=Gaushik2008&style=for-the-badge&color=e879f9&labelColor=0b0f1a&label=Profile+views" alt="Profile views">
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/818cf8/Gaushik2008" alt="GitHub contribution chart" width="95%">
-
-</div>
 
 <br>
 
 <div align="center">
 
-**Let's build something together.**
-[Portfolio](https://gaushikkumarganesan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/gaushikkumarganesan/) · [Email](mailto:gaushikkumarganesan@gmail.com)
+<a href="mailto:gaushikkumarganesan@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something that matters. gaushikkumarganesan@gmail.com"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:818cf8,100:e879f9&height=90&section=footer" width="100%" alt="">
+<br>
+
+<img src="https://img.shields.io/github/followers/Gaushik2008?style=flat-square&label=followers&color=f5b301&labelColor=07070a" alt="GitHub followers">
+<img src="https://img.shields.io/github/stars/Gaushik2008?style=flat-square&label=stars&color=f3efe6&labelColor=07070a" alt="GitHub stars">
+<img src="https://komarev.com/ghpvc/?username=Gaushik2008&style=flat-square&color=f5b301&labelColor=07070a&label=views" alt="Profile views">
 
 </div>
